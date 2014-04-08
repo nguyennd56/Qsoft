@@ -1,4 +1,0 @@
-Qsoft
-=====
-
-Enterprise Mobility Solution

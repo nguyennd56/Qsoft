@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/spring-beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/spring-context.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/spring-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/spring-tx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-jdbc1/Spring-JDBC/lib/spring-core.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="jar://$PROJECT_DIR$/../../mysql-connector-java-5.1.30.zip!/mysql-connector-java-5.1.30/src/lib" />
+      <root url="jar://$PROJECT_DIR$/../../mysql-connector-java-5.1.30/mysql-connector-java-5.1.30/mysql-connector-java-5.1.30-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../mysql-connector-java-5.1.30.zip!/mysql-connector-java-5.1.30/src/lib" recursive="false" />
+  </library>
+</component>
